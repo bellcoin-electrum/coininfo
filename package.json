@@ -1,5 +1,5 @@
 {
-  "name": "coininfo",
+  "name": "@y-chan/coininfo",
   "version": "4.4.1",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
@@ -20,14 +20,15 @@
     "monacoin",
     "zcash",
     "vertcoin",
-    "qtum"
+    "qtum",
+    "bellcoin"
   ],
   "devDependencies": {
     "standard": "*",
     "tape": "^4.8.0"
   },
   "repository": {
-    "url": "https://github.com/cryptocoinjs/coininfo",
+    "url": "https://github.com/bellcoin-electrum/coininfo",
     "type": "git"
   },
   "main": "./lib/coininfo.js",
